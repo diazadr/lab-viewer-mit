@@ -85,5 +85,8 @@ This project is **completed** and will not be further developed.
 - **MIT App Inventor Community**: For providing the development platform.
 - **Firebase & Google Services**: For enabling secure data storage and management.
 
+## Contributions
+Feel free to submit issues or contribute by creating pull requests.
+
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
