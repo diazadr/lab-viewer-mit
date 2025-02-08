@@ -1,6 +1,6 @@
 # LabViewer Application
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 The **LabViewer Application** is a cloud-based application developed as part of the Cloud Computing 1 course project. It is designed to assist in managing lab attendance and asset tracking, featuring Firebase integration for data storage, asset inventory management, and a sidebar navigation interface to streamline lab operations.
 
